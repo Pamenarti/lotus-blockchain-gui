@@ -44,7 +44,7 @@ msgstr "收割机是一个在存有农田文件的机器上运行的服务。农
 
 #: src/electron/main.tsx:422
 #: src/electron/main.tsx:509
-msgid "About lotus Blockchain"
+msgid "About Lotus Blockchain"
 msgstr "关于奇亚lotus区块链项目"
 
 #: src/components/trading/ViewOffer.jsx:74
@@ -207,7 +207,7 @@ msgid "Block VDF Iterations"
 msgstr "区块可验证延迟函数迭代"
 
 #: src/components/block/Block.jsx:338
-msgid "Block at height {0} in the lotus blockchain"
+msgid "Block at height {0} in the Lotus Blockchain"
 msgstr "奇亚区块链上高度为 {0} 的区块"
 
 #: src/components/fullNode/FullNode.jsx:331
@@ -303,7 +303,7 @@ msgid "lotus"
 msgstr "奇亚"
 
 #: src/electron/main.tsx:358
-msgid "lotus Blockchain Wiki"
+msgid "Lotus Blockchain Wiki"
 msgstr "奇亚区块链项目维基"
 
 #: src/components/wallet/standard/WalletStandard.tsx:630
@@ -1899,8 +1899,8 @@ msgstr "状态："
 #~ msgstr "Sub Block Height"
 
 #: src/components/block/Block.jsx:338
-#~ msgid "Sub Block at height {0} in the lotus blockchain"
-#~ msgstr "Sub Block at height {0} in the lotus blockchain"
+#~ msgid "Sub Block at height {0} in the Lotus Blockchain"
+#~ msgstr "Sub Block at height {0} in the Lotus Blockchain"
 
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:347
 msgid "Submit"

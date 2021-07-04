@@ -36,8 +36,8 @@ msgstr "'n Stroper (Harvester) is 'n robot wat werk op dieselfde masjien wat lan
 
 #: src/electron/main.tsx:365
 #: src/electron/main.tsx:443
-msgid "About lotus Blockchain"
-msgstr "Inligting oor lotus Blockchain"
+msgid "About Lotus Blockchain"
+msgstr "Inligting oor Lotus Blockchain"
 
 #: src/components/trading/ViewOffer.jsx:85
 msgid "Accept"
@@ -187,8 +187,8 @@ msgid "Block VDF Iterations"
 msgstr "Block VDF Iterasies"
 
 #: src/components/block/Block.jsx:311
-msgid "Block at height {0} in the lotus blockchain"
-msgstr "Blok is op hoogte {0} in die lotus blockchain"
+msgid "Block at height {0} in the Lotus Blockchain"
+msgstr "Blok is op hoogte {0} in die Lotus Blockchain"
 
 #: src/components/fullNode/FullNode.jsx:331
 #~ msgid "Block hash"
@@ -272,8 +272,8 @@ msgid "lotus"
 msgstr "lotus"
 
 #: src/electron/main.tsx:312
-msgid "lotus Blockchain Wiki"
-msgstr "lotus Blockchain Wiki"
+msgid "Lotus Blockchain Wiki"
+msgstr "Lotus Blockchain Wiki"
 
 #: src/components/wallet/Wallets.tsx:32
 msgid "lotus Wallet"
@@ -1584,8 +1584,8 @@ msgstr ""
 #~ msgstr "Sub Block Height"
 
 #: src/components/block/Block.jsx:338
-#~ msgid "Sub Block at height {0} in the lotus blockchain"
-#~ msgstr "Sub Block at height {0} in the lotus blockchain"
+#~ msgid "Sub Block at height {0} in the Lotus Blockchain"
+#~ msgstr "Sub Block at height {0} in the Lotus Blockchain"
 
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:357
 msgid "Submit"

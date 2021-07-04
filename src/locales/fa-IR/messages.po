@@ -46,7 +46,7 @@ msgstr ""
 
 #: src/electron/main.tsx:422
 #: src/electron/main.tsx:509
-msgid "About lotus Blockchain"
+msgid "About Lotus Blockchain"
 msgstr "درباره بلاکچین چیـا"
 
 #: src/components/trading/ViewOffer.jsx:74
@@ -211,7 +211,7 @@ msgid "Block VDF Iterations"
 msgstr "تکرار VDF بلوک"
 
 #: src/components/block/Block.jsx:338
-msgid "Block at height {0} in the lotus blockchain"
+msgid "Block at height {0} in the Lotus Blockchain"
 msgstr "بلوک در ارتفاع {0} در زنجیره بلوکی چیـا"
 
 #: src/components/fullNode/FullNode.jsx:331
@@ -307,7 +307,7 @@ msgid "lotus"
 msgstr "چیـا"
 
 #: src/electron/main.tsx:358
-msgid "lotus Blockchain Wiki"
+msgid "Lotus Blockchain Wiki"
 msgstr "ویکی زنجیره بلوکی چیـا"
 
 #: src/components/wallet/standard/WalletStandard.tsx:630
@@ -1907,8 +1907,8 @@ msgstr "وضعیت:"
 #~ msgstr "Sub Block Height"
 
 #: src/components/block/Block.jsx:338
-#~ msgid "Sub Block at height {0} in the lotus blockchain"
-#~ msgstr "Sub Block at height {0} in the lotus blockchain"
+#~ msgid "Sub Block at height {0} in the Lotus Blockchain"
+#~ msgstr "Sub Block at height {0} in the Lotus Blockchain"
 
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:347
 msgid "Submit"

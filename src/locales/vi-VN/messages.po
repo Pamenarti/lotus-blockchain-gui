@@ -24,7 +24,7 @@ msgstr ""
 
 #: src/components/farm/FarmLatestBlockChallenges.tsx:64
 msgid "*Want to explore lotus’s blocks further? Check out <0>lotus Explorer</0> built by an open source developer."
-msgstr "* Bạn muốn khám phá thêm về lotus Blockchain? Xem <0> lotus Explorer </0> được xây dựng bởi các nhà phát triển nguồn mở."
+msgstr "* Bạn muốn khám phá thêm về Lotus Blockchain? Xem <0> lotus Explorer </0> được xây dựng bởi các nhà phát triển nguồn mở."
 
 #: src/components/plot/add/PlotAddNFT.tsx:127
 msgid "+ Add New Plot NFT"
@@ -44,8 +44,8 @@ msgstr "Harvester là một dịch vụ chạy trên một máy chứa các tệ
 
 #: src/electron/main.tsx:422
 #: src/electron/main.tsx:509
-msgid "About lotus Blockchain"
-msgstr "Về lotus Blockchain"
+msgid "About Lotus Blockchain"
+msgstr "Về Lotus Blockchain"
 
 #: src/components/trading/ViewOffer.jsx:74
 msgid "Accept"
@@ -207,8 +207,8 @@ msgid "Block VDF Iterations"
 msgstr "Khối VDF lặp lại"
 
 #: src/components/block/Block.jsx:338
-msgid "Block at height {0} in the lotus blockchain"
-msgstr "Khối tại height {0} trong lotus blockchain"
+msgid "Block at height {0} in the Lotus Blockchain"
+msgstr "Khối tại height {0} trong Lotus Blockchain"
 
 #: src/components/fullNode/FullNode.jsx:331
 #~ msgid "Block hash"
@@ -303,8 +303,8 @@ msgid "lotus"
 msgstr "lotus"
 
 #: src/electron/main.tsx:358
-msgid "lotus Blockchain Wiki"
-msgstr "lotus Blockchain Wiki"
+msgid "Lotus Blockchain Wiki"
+msgstr "Lotus Blockchain Wiki"
 
 #: src/components/wallet/standard/WalletStandard.tsx:630
 msgid "lotus Wallet"
@@ -1899,8 +1899,8 @@ msgstr "Tình trạng:"
 #~ msgstr "Sub Block Height"
 
 #: src/components/block/Block.jsx:338
-#~ msgid "Sub Block at height {0} in the lotus blockchain"
-#~ msgstr "Sub Block at height {0} in the lotus blockchain"
+#~ msgid "Sub Block at height {0} in the Lotus Blockchain"
+#~ msgstr "Sub Block at height {0} in the Lotus Blockchain"
 
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:347
 msgid "Submit"

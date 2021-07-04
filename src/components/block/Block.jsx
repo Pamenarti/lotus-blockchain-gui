@@ -336,7 +336,7 @@ export default function Block() {
         title={
           <BlockTitle>
             <Trans>
-              Block at height {blockRecord.height} in the lotus blockchain
+              Block at height {blockRecord.height} in the Lotus Blockchain
             </Trans>
           </BlockTitle>
         }

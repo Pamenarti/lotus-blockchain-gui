@@ -44,7 +44,7 @@ msgstr "Le moissonneur est un service qui tourne sur une machine qui stocke des 
 
 #: src/electron/main.tsx:422
 #: src/electron/main.tsx:509
-msgid "About lotus Blockchain"
+msgid "About Lotus Blockchain"
 msgstr "À propos de la blockchain lotus"
 
 #: src/components/trading/ViewOffer.jsx:74
@@ -207,7 +207,7 @@ msgid "Block VDF Iterations"
 msgstr "Itération du bloc VDF"
 
 #: src/components/block/Block.jsx:338
-msgid "Block at height {0} in the lotus blockchain"
+msgid "Block at height {0} in the Lotus Blockchain"
 msgstr "Bloc à la hauteur {0} dans la blockchain lotus"
 
 #: src/components/fullNode/FullNode.jsx:331
@@ -303,8 +303,8 @@ msgid "lotus"
 msgstr "lotus"
 
 #: src/electron/main.tsx:358
-msgid "lotus Blockchain Wiki"
-msgstr "Wiki de la lotus Blockchain"
+msgid "Lotus Blockchain Wiki"
+msgstr "Wiki de la Lotus Blockchain"
 
 #: src/components/wallet/standard/WalletStandard.tsx:630
 msgid "lotus Wallet"
@@ -1899,8 +1899,8 @@ msgstr "Statut:"
 #~ msgstr "Sub Block Height"
 
 #: src/components/block/Block.jsx:338
-#~ msgid "Sub Block at height {0} in the lotus blockchain"
-#~ msgstr "Sub Block at height {0} in the lotus blockchain"
+#~ msgid "Sub Block at height {0} in the Lotus Blockchain"
+#~ msgstr "Sub Block at height {0} in the Lotus Blockchain"
 
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:347
 msgid "Submit"

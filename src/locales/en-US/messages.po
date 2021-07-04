@@ -44,8 +44,8 @@ msgstr "A harvester is a service running on a machine where plot(s) are actually
 
 #: src/electron/main.tsx:422
 #: src/electron/main.tsx:509
-msgid "About lotus Blockchain"
-msgstr "About lotus Blockchain"
+msgid "About Lotus Blockchain"
+msgstr "About Lotus Blockchain"
 
 #: src/components/trading/ViewOffer.jsx:74
 msgid "Accept"
@@ -207,8 +207,8 @@ msgid "Block VDF Iterations"
 msgstr "Block VDF Iterations"
 
 #: src/components/block/Block.jsx:338
-msgid "Block at height {0} in the lotus blockchain"
-msgstr "Block at height {0} in the lotus blockchain"
+msgid "Block at height {0} in the Lotus Blockchain"
+msgstr "Block at height {0} in the Lotus Blockchain"
 
 #: src/components/fullNode/FullNode.jsx:331
 #~ msgid "Block hash"
@@ -303,8 +303,8 @@ msgid "lotus"
 msgstr "lotus"
 
 #: src/electron/main.tsx:358
-msgid "lotus Blockchain Wiki"
-msgstr "lotus Blockchain Wiki"
+msgid "Lotus Blockchain Wiki"
+msgstr "Lotus Blockchain Wiki"
 
 #: src/components/wallet/standard/WalletStandard.tsx:630
 msgid "lotus Wallet"
@@ -1899,8 +1899,8 @@ msgstr "Status:"
 #~ msgstr "Sub Block Height"
 
 #: src/components/block/Block.jsx:338
-#~ msgid "Sub Block at height {0} in the lotus blockchain"
-#~ msgstr "Sub Block at height {0} in the lotus blockchain"
+#~ msgid "Sub Block at height {0} in the Lotus Blockchain"
+#~ msgstr "Sub Block at height {0} in the Lotus Blockchain"
 
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:347
 msgid "Submit"

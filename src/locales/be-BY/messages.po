@@ -44,8 +44,8 @@ msgstr "Камбайн — сэрвіс, які выконваецца на к�
 
 #: src/electron/main.tsx:422
 #: src/electron/main.tsx:509
-msgid "About lotus Blockchain"
-msgstr "Аб праграме lotus Blockchain"
+msgid "About Lotus Blockchain"
+msgstr "Аб праграме Lotus Blockchain"
 
 #: src/components/trading/ViewOffer.jsx:74
 msgid "Accept"
@@ -207,7 +207,7 @@ msgid "Block VDF Iterations"
 msgstr "Ітэрацый VDF блока"
 
 #: src/components/block/Block.jsx:338
-msgid "Block at height {0} in the lotus blockchain"
+msgid "Block at height {0} in the Lotus Blockchain"
 msgstr "Блок на вышыні {0} у блокчэйне lotus"
 
 #: src/components/fullNode/FullNode.jsx:331
@@ -303,7 +303,7 @@ msgid "lotus"
 msgstr "lotus"
 
 #: src/electron/main.tsx:358
-msgid "lotus Blockchain Wiki"
+msgid "Lotus Blockchain Wiki"
 msgstr "Вікі блокчэйна lotus"
 
 #: src/components/wallet/standard/WalletStandard.tsx:630
@@ -1899,8 +1899,8 @@ msgstr "Стан:"
 #~ msgstr "Sub Block Height"
 
 #: src/components/block/Block.jsx:338
-#~ msgid "Sub Block at height {0} in the lotus blockchain"
-#~ msgstr "Sub Block at height {0} in the lotus blockchain"
+#~ msgid "Sub Block at height {0} in the Lotus Blockchain"
+#~ msgstr "Sub Block at height {0} in the Lotus Blockchain"
 
 #: src/components/wallet/rateLimited/WalletRateLimited.jsx:347
 msgid "Submit"

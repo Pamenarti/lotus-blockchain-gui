@@ -355,7 +355,7 @@ if (!handleSquirrelEvent()) {
         role: 'help',
         submenu: [
           {
-            label: i18n._(/* i18n */ { id: 'lotus Blockchain Wiki' }),
+            label: i18n._(/* i18n */ { id: 'Lotus Blockchain Wiki' }),
             click: () => {
               openExternal(
                 'https://github.com/Lotus-Network/lotus-blockchain/wiki',
@@ -414,12 +414,12 @@ if (!handleSquirrelEvent()) {
     ];
 
     if (process.platform === 'darwin') {
-      // lotus Blockchain menu (Mac)
+      // Lotus Blockchain menu (Mac)
       template.unshift({
         label: i18n._(/* i18n */ { id: 'lotus' }),
         submenu: [
           {
-            label: i18n._(/* i18n */ { id: 'About lotus Blockchain' }),
+            label: i18n._(/* i18n */ { id: 'About Lotus Blockchain' }),
             click: () => {
               openAbout();
             },
@@ -506,7 +506,7 @@ if (!handleSquirrelEvent()) {
           type: 'separator',
         },
         {
-          label: i18n._(/* i18n */ { id: 'About lotus Blockchain' }),
+          label: i18n._(/* i18n */ { id: 'About Lotus Blockchain' }),
           click() {
             openAbout();
           },
