@@ -11,7 +11,7 @@ import {
   Loading,
   FormatLargeNumber,
   Link,
-} from '@chia/core';
+} from '@lotus/core';
 import {
   Box,
   Card,

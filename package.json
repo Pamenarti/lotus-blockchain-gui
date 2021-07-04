@@ -1,6 +1,6 @@
 {
   "name": "lotus-blockchain",
-  "author": "lotus Network <hello@lotus.net> (https://lotus.net/)",
+  "author": "Lotus Network <hello@lotus.net> (https://lotus.net/)",
   "description": "GUI for lotus Blockchain",
   "productName": "lotus Blockchain",
   "private": true,
